@@ -96,13 +96,15 @@ Example: https://ark.colorado.edu/ark:/47540/s87392464332
 ### Physical Location
 The institution or repository that holds the resource or where it is available: University of Colorado Boulder Libraries Rare and Distinctive Collections
 ### Shelf Locator
-Shelfmark or other shelving designation that indicates the location identifier for a resource. Example: F809.7 .A74
+Shelfmark or other shelving designation that indicates the location identifier for a resource. 
+
+Example: F809.7 .A74
 
 ### Rights
 Information about restrictions imposed on access to a resource.
 
 Statement in collection: The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information. http://rightsstatements.org/vocab/NoC-US/1.0/ 
 
-This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/
+Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/
 ## Resources
 ## Notes
